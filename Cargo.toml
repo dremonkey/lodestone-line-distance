@@ -1,0 +1,13 @@
+[package]
+name = "lodestone-line-distance"
+version = "0.1.0"
+authors = ["dremonkey <a.deutmeyer@gmail.com>"]
+
+[dependencies.lodestone-distance]
+path = "../lodestone-distance"
+
+[dependencies.lodestone-linestring]
+path = "../lodestone-linestring"
+
+[dependencies.lodestone-point]
+path = "../lodestone-point"
